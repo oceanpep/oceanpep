@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Martins Sousa — Oceanografia e pesquisa geoespacial</title>
+  <desc id="desc">Banner de ciência costeira com curvas topográficas, grade raster sutil e silhuetas de manguezal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071c24"/><stop offset="0.58" stop-color="#0b2b32"/><stop offset="1" stop-color="#142539"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#52e0b4"/><stop offset="0.55" stop-color="#42cbd1"/><stop offset="1" stop-color="#f28bb5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b8d6df" stroke-opacity=".07" stroke-width="1"/><circle cx="1" cy="1" r="1" fill="#9edbd5" fill-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <g fill="none" stroke-width="1.4" opacity=".28">
+    <path d="M620 300c20-68 84-73 113-126 33-60 8-122 75-164 36-23 82-23 130-10" stroke="#52e0b4"/><path d="M650 300c19-59 78-68 103-116 30-57 10-109 68-147 37-24 82-26 129-17" stroke="#52e0b4"/><path d="M682 300c17-50 68-61 92-104 29-51 13-95 61-130 34-25 76-29 122-23" stroke="#54cdd0"/><path d="M720 300c17-42 60-51 80-88 24-44 17-80 56-110 31-24 67-31 108-28" stroke="#f28bb5"/><path d="M0 223c91-24 143 35 234 18 73-13 102-77 174-79 48-2 77 24 127 13" stroke="#52e0b4"/><path d="M0 249c91-23 141 27 225 13 75-13 108-70 179-70 52 0 76 22 131 8" stroke="#54cdd0"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="78" y="77" fill="#8ddfd1" font-size="13" font-weight="700" letter-spacing="3">CIÊNCIA COSTEIRA  /  GEOINFORMAÇÃO</text>
+    <text x="74" y="139" fill="#f4f7f8" font-size="39" font-weight="700" letter-spacing=".4">FELIPE MARTINS SOUSA</text>
+    <rect x="78" y="161" width="395" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="78" y="201" fill="#c6d7dc" font-size="16" letter-spacing="1">OCEANOGRAFIA · ANÁLISE ESPACIAL · DINÂMICA DOS MANGUEZAIS</text>
+    <text x="78" y="259" fill="#79a1a8" font-size="12" letter-spacing="2">GEOTAM / UFMA  —  PESQUISA AMBIENTAL DE IMPACTO</text>
+  </g>
+  <g transform="translate(1015 168)" stroke="#53d6ac" stroke-width="3" fill="none" stroke-linecap="round" opacity=".95">
+    <path d="M0 100V8M0 36l-31-29M0 52l32-38M0 68l-42-18M0 81l43-24"/><path d="M-31 7l-12-9M-31 7l-1-14M32 14l13-10M32 14l2-15M-42 50l-14-2M-42 50l-4-13M43 57l13-6M43 57l-1-14"/><path d="M-56 112h116" stroke="#f28bb5" stroke-width="2"/>
+  </g>
+  <g fill="#f28bb5" opacity=".8"><circle cx="1041" cy="154" r="3"/><circle cx="957" cy="204" r="2.5"/><circle cx="1093" cy="104" r="2"/></g>
+</svg>
