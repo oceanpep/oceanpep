@@ -26,6 +26,10 @@
 I have a degree in **Systems Analysis and Development** and a specialization in **Data Analysis**. I am currently pursuing a master's degree in **Environmental Science and Technology** and an undergraduate degree in **Oceanography** at the Federal University of Maranhão (UFMA).
 
 My work brings together environmental data analysis, remote sensing, geoprocessing, and spatial modelling.
+<p align="center">
+  <img src="./assets/global-mangrove-distribution.png" width="72%" alt="Global distribution of mangroves shown in pink against white coastlines" />
+</p>
+<p align="center"><sub>Global mangrove distribution · A visual overview of the coastal ecosystems at the heart of my research</sub></p>
 
 ```json
 {
@@ -38,6 +42,9 @@ My work brings together environmental data analysis, remote sensing, geoprocessi
 ### // FEATURED PROJECT
 
 #### [BR-MANGUE Studio](https://github.com/oceanpep/br-mangue-studio)
+<p align="center">
+  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.svg" width="400" alt="BR-MANGUE Studio" /></a>
+</p>
 
 A Python desktop application for simulating and exploring mangrove spatial dynamics. It combines raster data and environmental scenarios to produce maps, annual trajectories, and reproducible outputs.
 
@@ -48,9 +55,16 @@ A Python desktop application for simulating and exploring mangrove spatial dynam
 
 ### // RESEARCH, LABORATORIES, AND GROUPS
 
-- **GEOTAM/UFMA** — the main laboratory associated with the development of BR-MANGUE Studio.
-- **MOceanS/INPE** and **LAMA/UFMA** — research participation and laboratory collaborations.
-- Research groups: [LambdaGeo](https://dgp.cnpq.br/dgp/espelhogrupo/771872) and [CEGMANGUE](https://dgp.cnpq.br/dgp/espelhogrupo/776502).
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><strong>Development laboratory</strong><br /><sub>GEOTAM / UFMA · Core lab</sub><br /><br /><img src="./assets/geotam-logo.jpeg" width="220" alt="GEOTAM — Laboratory of Geotechnologies and Environmental Sciences" /></td>
+    <td align="center" valign="middle"><strong>Partner laboratory</strong><br /><sub>MOceanS / INPE</sub><br /><br /><img src="./assets/moceans-logo.png" width="160" alt="MOceanS — Ocean by Satellite" /></td>
+    <td align="center" valign="middle"><strong>Partner laboratory</strong><br /><sub>LAMA / UFMA</sub><br /><br /><img src="./assets/lama-ufma-logo.jpg" width="205" alt="LAMA — Mangrove Laboratory, UFMA" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>GEOTAM is the main laboratory associated with BR-MANGUE Studio's development. MOceanS and LAMA are research collaborators.</sub></p>
+<p align="center">Research groups: <a href="https://dgp.cnpq.br/dgp/espelhogrupo/771872">LambdaGeo</a> · <a href="https://dgp.cnpq.br/dgp/espelhogrupo/776502">CEGMANGUE</a></p>
 
 ### // GEOSPATIAL TOOLKIT
 
