@@ -43,7 +43,7 @@ My work brings together environmental data analysis, remote sensing, geoprocessi
 
 #### [BR-MANGUE Studio](https://github.com/oceanpep/br-mangue-studio)
 <p align="center">
-  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.svg" width="400" alt="BR-MANGUE Studio" /></a>
+  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.png" width="400" alt="BR-MANGUE Studio" /></a>
 </p>
 
 A Python desktop application for simulating and exploring mangrove spatial dynamics. It combines raster data and environmental scenarios to produce maps, annual trajectories, and reproducible outputs.
