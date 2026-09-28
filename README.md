@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=850&color=45D6B5&center=true&vCenter=true&width=860&height=42&lines=Oceanografia+%7C+Geotecnologias;Manguezais+%7C+Modelagem+espacial;Ci%C3%AAncia+costeira+%7C+Software+reprodut%C3%ADvel" alt="Oceanografia, geotecnologias e modelagem ambiental" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=850&color=45D6B5&center=true&vCenter=true&width=860&height=42&lines=Oceanografia+%7C+Geotecnologias;Manguezais+%7C+Modelagem+espacial;Ci%C3%AAncia+costeira+%7C+Ci%C3%AAncia+de+impacto" alt="Oceanografia, geotecnologias e modelagem ambiental" />
 </p>
 
 <p align="center">
