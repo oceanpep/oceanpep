@@ -28,6 +28,8 @@ Aplicação desktop em Python para simular e explorar a dinâmica espacial dos m
 
 ## Links
 
+- [LinkedIn](https://www.linkedin.com/in/felipe-martins-sousa-9291b8302)
+- [ORCID](https://orcid.org/0009-0009-0505-4845)
 - [Currículo Lattes](http://lattes.cnpq.br/1933589345525424)
 - [BR-MANGUE Studio no GitHub](https://github.com/oceanpep/br-mangue-studio)
 - [Site do BR-MANGUE Studio](https://oceanpep.github.io/br-mangue-studio/)
@@ -50,6 +52,8 @@ Geospatial technologies · Spatial data analysis · Oceanography · Coastal syst
 
 ### Links
 
+- [LinkedIn](https://www.linkedin.com/in/felipe-martins-sousa-9291b8302)
+- [ORCID](https://orcid.org/0009-0009-0505-4845)
 - [Lattes CV](http://lattes.cnpq.br/1933589345525424)
 - [BR-MANGUE Studio on GitHub](https://github.com/oceanpep/br-mangue-studio)
 - [BR-MANGUE Studio website](https://oceanpep.github.io/br-mangue-studio/)
