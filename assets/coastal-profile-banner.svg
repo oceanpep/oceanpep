@@ -32,7 +32,7 @@
     <text x="74" y="139" fill="#f4f7f8" font-size="39" font-weight="700" letter-spacing=".4">FELIPE MARTINS SOUSA</text>
     <rect x="78" y="161" width="395" height="3" rx="1.5" fill="url(#accent)"/>
     <text x="78" y="201" fill="#c6d7dc" font-size="16" letter-spacing="1">OCEANOGRAPHY · SPATIAL ANALYSIS · MANGROVE DYNAMICS</text>
-    <text x="78" y="259" fill="#79a1a8" font-size="12" letter-spacing="2">GEOTAM / UFMA  —  OPEN, REPRODUCIBLE ENVIRONMENTAL RESEARCH</text>
+    <text x="78" y="259" fill="#79a1a8" font-size="12" letter-spacing="2">GEOTAM / UFMA  —  PESQUISA AMBIENTAL DE IMPACTO</text>
   </g>
   <g transform="translate(1015 168)" stroke="#53d6ac" stroke-width="3" fill="none" stroke-linecap="round" opacity=".95">
     <path d="M0 100V8M0 36l-31-29M0 52l32-38M0 68l-42-18M0 81l43-24"/>
