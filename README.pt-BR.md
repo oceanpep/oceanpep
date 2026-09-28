@@ -43,7 +43,7 @@ Meu trabalho conecta análise de dados ambientais, sensoriamento remoto, geoproc
 
 #### [BR-MANGUE Studio](https://github.com/oceanpep/br-mangue-studio)
 <p align="center">
-  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.svg" width="400" alt="BR-MANGUE Studio" /></a>
+  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.png" width="400" alt="BR-MANGUE Studio" /></a>
 </p>
 
 Aplicativo desktop em Python para simular e explorar a dinâmica espacial dos manguezais. Integra dados raster e cenários ambientais para gerar mapas, trajetórias anuais e resultados reprodutíveis.
