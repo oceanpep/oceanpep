@@ -26,6 +26,10 @@
 Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**, com especialização em **Análise de Dados**. Atualmente, sou mestrando em **Ciência e Tecnologia Ambiental** e graduando em **Oceanografia** na Universidade Federal do Maranhão (UFMA).
 
 Meu trabalho conecta análise de dados ambientais, sensoriamento remoto, geoprocessamento e modelagem espacial.
+<p align="center">
+  <img src="./assets/global-mangrove-distribution.png" width="72%" alt="Distribuição global dos manguezais em rosa sobre o contorno branco dos continentes" />
+</p>
+<p align="center"><sub>Distribuição global dos manguezais · Um panorama visual dos ecossistemas costeiros que estão no centro da minha pesquisa</sub></p>
 
 ```json
 {
@@ -38,6 +42,9 @@ Meu trabalho conecta análise de dados ambientais, sensoriamento remoto, geoproc
 ### // PROJETO EM DESTAQUE
 
 #### [BR-MANGUE Studio](https://github.com/oceanpep/br-mangue-studio)
+<p align="center">
+  <a href="https://github.com/oceanpep/br-mangue-studio"><img src="./assets/br-mangue-studio-logo.svg" width="400" alt="BR-MANGUE Studio" /></a>
+</p>
 
 Aplicativo desktop em Python para simular e explorar a dinâmica espacial dos manguezais. Integra dados raster e cenários ambientais para gerar mapas, trajetórias anuais e resultados reprodutíveis.
 
@@ -48,9 +55,16 @@ Aplicativo desktop em Python para simular e explorar a dinâmica espacial dos ma
 
 ### // PESQUISA, LABORATÓRIOS E GRUPOS
 
-- **GEOTAM/UFMA** — laboratório principal associado ao desenvolvimento do BR-MANGUE Studio.
-- **MOceanS/INPE** e **LAMA/UFMA** — participação em pesquisas e colaborações laboratoriais.
-- Grupos de pesquisa: [LambdaGeo](https://dgp.cnpq.br/dgp/espelhogrupo/771872) e [CEGMANGUE](https://dgp.cnpq.br/dgp/espelhogrupo/776502).
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><strong>Laboratório de desenvolvimento</strong><br /><sub>GEOTAM / UFMA · Laboratório principal</sub><br /><br /><img src="./assets/geotam-logo.jpeg" width="220" alt="GEOTAM — Laboratório de Geotecnologias e Ciências Ambientais" /></td>
+    <td align="center" valign="middle"><strong>Laboratório parceiro</strong><br /><sub>MOceanS / INPE</sub><br /><br /><img src="./assets/moceans-logo.png" width="160" alt="MOceanS — Oceano por Satélite" /></td>
+    <td align="center" valign="middle"><strong>Laboratório parceiro</strong><br /><sub>LAMA / UFMA</sub><br /><br /><img src="./assets/lama-ufma-logo.jpg" width="205" alt="LAMA — Laboratório de Manguezais, UFMA" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>O GEOTAM é o laboratório principal associado ao desenvolvimento do BR-MANGUE Studio. MOceanS e LAMA são parceiros de pesquisa.</sub></p>
+<p align="center">Grupos de pesquisa: <a href="https://dgp.cnpq.br/dgp/espelhogrupo/771872">LambdaGeo</a> · <a href="https://dgp.cnpq.br/dgp/espelhogrupo/776502">CEGMANGUE</a></p>
 
 ### // FERRAMENTAS GEOESPACIAIS
 
